@@ -1,16 +1,30 @@
 <h2 align="left">Hello fellow humans 🖖</h2>
 
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&include_all_commits=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&count_privates=true&include_all_commits=true"/>
-</picture>
+<div display="flex" align="center" justify-content="space-between">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&include_all_commits=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&count_privates=true&include_all_commits=true"/>
+  </picture>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&include_all_commits"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&count_privates=true&include_all_commits=true"/>
+  </picture>
+</div>
 
 <h2 align="center">Contact</h2>
 <div>
