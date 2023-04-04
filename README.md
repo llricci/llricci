@@ -39,7 +39,7 @@
     <a href="https://youtube.com/@lucasricci" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-YouTube-333333?style=for-the-badge&logo=youtube" alt="youtube" />
     </a>
-    <a href="https://discord.com/users/286304385674248193" target="_blank">
+    <a href="https://discord.gg/G4pRc937Ma" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-Discord-333333?style=for-the-badge&logo=discord&logoColor=white" alt="youtube" />
     </a>
   </p>
