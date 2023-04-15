@@ -1,5 +1,5 @@
-<div>
-  <img align="center" height="128px" width="128px" src="images/logo.png" alt="logo"/>
+<div align="center">
+  <img height="128px" width="128px" src="images/logo1.png" alt="logo"/>
   <p align="center">
     <a href="https://linkedin.com/in/lucaslricci" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin" alt="linkedin" />
@@ -18,7 +18,7 @@
 
 <h1 align="center">Hello fellow humans 🖖</h1>
 
-<div display="flex" align="center" justify-content="space-between">
+<div display="flex" align-items="center" justify-content="center">
   <picture>
     <source 
       srcset="https://streak-stats.demolab.com?user=lucasricci&theme=github-dark&hide_border=true"
@@ -40,6 +40,6 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&hide_border=true&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&count_privates=true&include_all_commits=true"&hide_border=true/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&count_privates=true&include_all_commits=true&hide_border=true"/>
   </picture>
 </div>
