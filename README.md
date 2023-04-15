@@ -28,7 +28,7 @@
       srcset="https://streak-stats.demolab.com?user=lucasricci&theme=github-light&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="423em" src="https://streak-stats.demolab.com?user=lucasricci&hide_border=true"/>
+    <img width="421em" src="https://streak-stats.demolab.com?user=lucasricci&hide_border=true"/>
   </picture>
 
   <picture>
@@ -40,6 +40,6 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&hide_border=true&include_all_commits=true&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="423em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&count_privates=true&include_all_commits=true&hide_border=true&layout=compact"/>
+    <img width="421em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasricci&show_icons=true&count_privates=true&include_all_commits=true&hide_border=true&layout=compact"/>
   </picture>
 </div>
