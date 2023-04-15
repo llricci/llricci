@@ -3,14 +3,14 @@
 <div display="flex" align="center" justify-content="space-between">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&theme=github_dark&include_all_commits=true&count_privates=true&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=lucasricci&theme=github-dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&include_all_commits=true&count_privates=true&hide_border=true"
+      srcset="https://streak-stats.demolab.com?user=lucasricci&theme=github-light&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasricci&show_icons=true&count_privates=true&include_all_commits=true&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=lucasricci&hide_border=true"/>
   </picture>
 
   <picture>
