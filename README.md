@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="128px" width="128px" src="images/logo1.png" alt="logo"/>
+  <img height="96px" width="96px" src="images/logo1.png" alt="logo"/>
   <p align="center">
     <a href="https://linkedin.com/in/lucaslricci" target="_blank">
       <img align="center" src="https://img.shields.io/badge/-LinkedIn-333333?style=for-the-badge&logo=linkedin" alt="linkedin" />
