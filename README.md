@@ -18,7 +18,7 @@
 
 <h1 align="center">Hello fellow humans 🖖</h1>
 
-<div display="flex" align-items="center" justify-content="center">
+<div display="flex" align="center">
   <picture>
     <source 
       srcset="https://streak-stats.demolab.com?user=lucasricci&theme=github-dark&hide_border=true"
