@@ -1,5 +1,5 @@
 # Hello fellow humans 🖖
-Tech enthusiasty and problem solver (mainly caused by me)
+I'm Lucas, a geek programmer with particular interests. I find STEM topics fascinating and intriguing, their complexity and mysteries is what drive my keen desire to learn more. My goal is to at least try to improve humankind quality, even by just a little bit.
 
 # Talk to me about 🗣️
 - Sci-fi culture (Literature, videogames, movies etc); 
