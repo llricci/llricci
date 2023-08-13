@@ -1,5 +1,5 @@
 # Hello fellow humans 🖖
-I'm Lucas, a geek programmer with particular interests. I find STEM topics fascinating and intriguing, their complexity and mysteries is what drive my keen desire to learn more. My goal is to at least try to improve humankind quality, even by just a little bit.
+I'm Lucas, a geek developer with particular interests. I find STEM topics fascinating and intriguing, their complexity and mysteries is what drive my keen desire to learn more. My goal is to at least try to improve humankind quality, even by just a little bit.
 
 # Talk to me about 🗣️
 - Sci-fi culture (Literature, videogames, movies etc); 
