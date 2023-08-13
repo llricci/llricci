@@ -27,6 +27,7 @@ I'm Lucas, a geek developer with particular interests. I find STEM topics fascin
   - [ManimCE](https://github.com/ManimCommunity/manim) &nbsp;*just contributor*
   - [Manim Animations](https://github.com/lucasricci/manim-projects)
   - [PyWeather CLI](https://github.com/lucasricci/pyweather-cli)
+  - [Cryptography Tools](https://github.com/lucasricci/cryptography-tools)
 
   ### JavaScript
   - [Personal Site](https://github.com/lucasricci/homepage)
