@@ -16,29 +16,3 @@ I'm Lucas, a geek developer with particular interests. I find STEM topics fascin
 	<img width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 </details>
-
-# Projects 📂
-<details>
-  <summary>Click to expand!</summary>
-
-  `~` -> Work in Progress
-  
-  ### Python
-  - [ManimCE](https://github.com/ManimCommunity/manim) &nbsp;*just contributor*
-  - [Manim Animations](https://github.com/lucasricci/manim-projects)
-  - [PyWeather CLI](https://github.com/lucasricci/pyweather-cli)
-  - [Cryptography Tools](https://github.com/lucasricci/cryptography-tools)
-
-  ### JavaScript
-  - [Personal Site](https://github.com/lucasricci/homepage)
-  - `~` [Periodic Table](https://www.lucas-ricci.com/ptable)
-  - `~` [Artoo Discord Bot](https://github.com/lucasricci/artoo-bot)
-
-  ### Themes
-  - [Ballerini Theme](https://github.com/Ballerini-Theme)
-    - [Firefox](https://github.com/Ballerini-Theme/firefox)
-    - [Chrome](https://github.com/Ballerini-Theme/chrome)
-    - [Vivaldi](https://github.com/Ballerini-Theme/vivaldi)
-    - [Windows Terminal](https://github.com/Ballerini-Theme/windows-terminal)
-  - [Ardósia Firefox](https://addons.mozilla.org/pt-BR/firefox/addon/ard%C3%B3sia/)
-</details>
