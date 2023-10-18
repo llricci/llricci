@@ -16,3 +16,7 @@ I'm Lucas, a geek developer with particular interests. I find STEM topics fascin
 	<img width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width=64 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
 </details>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasricci&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasricci&theme=codeSTACKr&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasricci&theme=codeSTACKr)
