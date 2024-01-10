@@ -2,4 +2,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lucasricci&theme=codeSTACKr&utcOffset=-3)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucasricci&theme=codeSTACKr)
 
-See my [site](lucas-ricci.com)
+See my <a href="https://lucas-ricci.com" target="_blank">site</a>
