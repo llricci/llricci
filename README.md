@@ -1,6 +1,5 @@
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/natriumdev/count.svg" />
   <br>
   <img src="https://badges.pufler.dev/visits/natriumdev/badge-it" />
 </p>
