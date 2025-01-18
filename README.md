@@ -1,11 +1,13 @@
-<p align="center"> 
-  Visitor count<br>
-  <br>
-  <img src="https://badges.pufler.dev/visits/natriumdev/badge-it" />
-</p>
+<div align=center>
+  
+  <h1>Hello! My name is Ricci 🖖</h1>
+  <img src="https://badges.pufler.dev/visits/llricci/badge-it" />
+  <br><br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=natriumdev&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=natriumdev&theme=codeSTACKr&utcOffset=-3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=natriumdev&theme=codeSTACKr)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llricci&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=llricci&theme=solarized&utcOffset=-3)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=llricci&theme=solarized)<br><br>
+  See my <a href="https://natrium.dev.br" target="_blank">site</a>
 
-See my <a href="https://natrium.dev.br" target="_blank">site</a>
+</div>
+
